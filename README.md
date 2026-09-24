@@ -58,4 +58,4 @@ from the cost; 2016 prices. Equal binder does not guarantee equal strength — t
 
 ## Author
 
-[Your Name] — B.Tech Civil Engineering, NIT Srinagar
+Mantasha Siddiqui - B.Tech Civil Engineering, NIT Srinagar
